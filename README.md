@@ -1,2 +1,2 @@
 # TesteTarget
-Resolução de lista de exercicios da empresa Target para vaga de estagiário.
+Resolução de lista de exercicios (com linguagem Java) da empresa Target para vaga de estagiário.
